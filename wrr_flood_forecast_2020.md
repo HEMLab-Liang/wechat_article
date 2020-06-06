@@ -19,7 +19,7 @@
 ![图二](https://github.com/mingxiaodong/markdown_test/blob/master/CA1_4map.png)
 图2. 不同时段的洪水淹没深度及范围预报
 
-表1. Carlisle市中心区域的淹没范围预报表现（基于10m×10m网格）
+表1. Carlisle市中心区域的淹没范围预报表现(基于10m×10m网格)
 Total cells|Hits|Misses|False alarms|Correct negatives|POD|FAR|CSI
 -----------|----|------|------------|-----------------|---|---|---
 105583|24369|249|9644|71321|0.99|0.28|0.71
@@ -33,6 +33,8 @@ Total cells|Hits|Misses|False alarms|Correct negatives|POD|FAR|CSI
 
 该论文由HEMLab研究团队明晓东博士、[梁秋华](https://www.lboro.ac.uk/departments/abce/staff/qiuhua-liang/)教授和[夏熙临](https://www.lboro.ac.uk/departments/abce/staff/xilin-xia/)博士以及英国纽卡斯尔大学和气象部合伙伴联合发表在水资源顶级期刊**Water Resources Research**上：
 Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). [Real‐time flood forecasting based on a high‐performance 2D hydrodynamic model and numerical weather predictions.](https://doi.org/10.1029/2019wr025583) Water Resources Research.
+
 原文链接：https://doi.org/10.1029/2019wr025583
+
 敬请访问[HEMLab团队网站](https://www.hemlab.org)，了解模型开发动态，关注最新研究成果。
 ![qrcode](https://github.com/mingxiaodong/markdown_test/blob/master/HEMLab_Wechat_QRcode.jpeg)
