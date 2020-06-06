@@ -32,6 +32,7 @@ Total cells|Hits|Misses|False alarms|Correct negatives|POD|FAR|CSI
 <sup>*</sup>采用安装有8×NVIDIA Tesla K80 GPU的服务器
 
 该论文由HEMLab研究团队[明晓东](https://www.researchgate.net/profile/Xiaodong_Ming2)博士、[梁秋华](https://www.lboro.ac.uk/departments/abce/staff/qiuhua-liang/)教授和[夏熙临](https://www.lboro.ac.uk/departments/abce/staff/xilin-xia/)博士以及英国纽卡斯尔大学和气象部合伙伴联合发表在水资源顶级期刊**Water Resources Research**上：
+
 Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). [Real‐time flood forecasting based on a high‐performance 2D hydrodynamic model and numerical weather predictions.](https://doi.org/10.1029/2019wr025583) Water Resources Research.
 
 原文链接：https://doi.org/10.1029/2019wr025583
