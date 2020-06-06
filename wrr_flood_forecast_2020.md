@@ -1,6 +1,6 @@
 > 微信公众号：**[HEMLab]**
-> 关注水灾害、山地灾害模拟及风险评估。问题或建议，请公众号留言。
-HEMLab团队在Water Resources Research发表新成果：基于二维高性能水动力模型和数值天气预报的实时洪水预报系统
+
+> HEMLab团队在Water Resources Research发表新成果：基于二维高性能水动力模型和数值天气预报的实时洪水预报系统
 ![封面图片](https://github.com/mingxiaodong/markdown_test/blob/master/Paper_preview.png)
 
 ### HEMLab 出品：全流域-高精度-实时洪水预报系统
