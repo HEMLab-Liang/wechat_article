@@ -27,7 +27,7 @@ Total cells|Hits|Misses|False alarms|Correct negatives|POD|FAR|CSI
 本研究具有以下亮点：
 * 基于全水动力学模拟和数值天气预报的高精度实时预报系统
 * 通过多GPU加速技术实现全流域1亿（10m×10m）或2500万（5m×5m）网格级别的二维水动力学洪水模拟
-* 该系统应用于英国Eden河流域，采用现有计算资源^，以2015年12月的一次极端洪水事件为例，成功验证了提前34小时发布10m精度洪水淹没预报的能力
+* 该系统应用于英国Eden河流域，采用现有计算资源<sup>*</sup>，以2015年12月的一次极端洪水事件为例，成功验证了提前34小时发布10m精度洪水淹没预报的能力
 ^采用安装有8×NVIDIA Tesla K80 GPU的服务器
 
 该论文由HEMLab研究团队明晓东博士、[梁秋华](https://www.lboro.ac.uk/departments/abce/staff/qiuhua-liang/)教授和[夏熙临](https://www.lboro.ac.uk/departments/abce/staff/xilin-xia/)博士以及英国纽卡斯尔大学和气象部合伙伴联合发表在水资源顶级期刊**Water Resources Research**上：
