@@ -25,7 +25,7 @@ Total cells|Hits|Misses|False alarms|Correct negatives|POD|FAR|CSI
 * 通过多GPU加速技术实现流域级别的二维水动力学洪水模拟
 * 该系统应用于流域面积为2500平方公里的英国Eden河流域，以2015年12月的一次极端洪水事件为例，成功验证了提前34小时发布精确洪水淹没预报的能力
 
-该论文由HEMLab研究团队明晓东博士、梁秋华教授和夏熙临博士等联合发表在水资源顶级期刊**Water Resources Research**上：
+该论文由HEMLab研究团队明晓东博士、梁秋华教授和[夏熙临](https://www.lboro.ac.uk/departments/abce/staff/xilin-xia/)博士等联合发表在水资源顶级期刊**Water Resources Research**上：
 Ming, X., Liang, Q., Xia, X., Li, D., & Fowler, H. J. (2020). [Real‐time flood forecasting based on a high‐performance 2D hydrodynamic model and numerical weather predictions.](https://doi.org/10.1029/2019wr025583) Water Resources Research.
 
 敬请登陆我们的网站[https://www.hemlab.org], 或者通过我们的微信公众号，关注我们的最新研究。
